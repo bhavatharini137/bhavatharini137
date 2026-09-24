@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/bhavatharini-s-m-0966212a0/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://bhavatharini137.github.io">
+<a href="https://bhavatharini137.github.io/portfolio-Bhavatharini/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -268,7 +268,7 @@ Build Again
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://bhavatharini137.github.io">
+<a href="https://bhavatharini137.github.io/portfolio-Bhavatharini/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
