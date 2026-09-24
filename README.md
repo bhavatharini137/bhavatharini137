@@ -222,7 +222,7 @@ goal:
 
 <div align="center">
 
-<a href="bhavatharini137">
+<a href="https://github.com/bhavatharini137">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
